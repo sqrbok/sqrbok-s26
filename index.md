@@ -5,10 +5,13 @@ nav_order: 1
 ---
 
 <div align="center">
-  <img src="/images/logo/sqr_logo.png" alt="SQRBOK Logo" style="width:180px; margin-bottom: 1em;" />
+  <img src="/sqrbok-s26/images/logo/sqr_logo.png" alt="SQRBOK Logo" style="width:180px; margin-bottom: 1em;" />
 </div>
 
 # Software Quality and Reliability
+
+{: .warning }
+**Archived S26 edition (Spring 2026).** This copy is kept so that links from that semester keep working. The current handbook is at [sqrbok.github.io](https://sqrbok.github.io/).
 
 Course handbook for two complementary programs:
 
@@ -35,23 +38,23 @@ The content reflects current industry practice: continuous integration, automate
 
 ## Areas Covered
 
-### 1. [Defining Quality](/content/define/)
+### 1. [Defining Quality](/sqrbok-s26/content/define/)
 Quality views, quality models, and the metrics that make quality measurable and comparable across projects and teams.
 
-### 2. [Organizing Quality](/content/organization/)
+### 2. [Organizing Quality](/sqrbok-s26/content/organization/)
 Cost of quality, project-level quality planning, process improvement, and the standards and industry practices that operationalise these — CMMI, ISO 9000, TMMi, DevOps, SRE, PSP/TSP.
 
-### 3. [Verification and Validation](/content/verif/)
+### 3. [Verification and Validation](/sqrbok-s26/content/verif/)
 The full range of V&V methods and when to apply each:
 - Black-box testing: domain and boundary analysis, equivalence partitioning, decision tables, classification trees, combinatorial, random and property-based, exploratory testing, operational profiles
 - White-box testing: statement, branch, MC/DC, and data-flow coverage; mutation testing
 - Inspection: code reviews, Fagan inspection, reading techniques
 - Static analysis: model checking, symbolic execution, dataflow analysis, tooling
 
-### 4. [Quality Attributes](/content/attributes/)
+### 4. [Quality Attributes](/sqrbok-s26/content/attributes/)
 Maintainability, reliability, performance and queuing theory, security, and usability — each treated as an engineering property with models, metrics, and design implications.
 
-### 5. [Selected Materials](/content/material/)
+### 5. [Selected Materials](/sqrbok-s26/content/material/)
 Curated textbooks and key research papers, one annotation per entry explaining the core contribution and why it earns a place in the list.
 
 ---
